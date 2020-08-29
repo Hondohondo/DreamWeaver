@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="332342bd-a2b2-4719-8539-8bff0d2e604b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1gHqVw1eaRslrOs5vVjF7VRCaNh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="332342bd-a2b2-4719-8539-8bff0d2e604b" name="Default Changelist" comment="" />
+      <created>1597781894101</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597781894101</updated>
+      <workItem from="1597781895377" duration="55000" />
+      <workItem from="1597782518252" duration="4962000" />
+      <workItem from="1597788867701" duration="1427000" />
+      <workItem from="1597947953091" duration="5911000" />
+      <workItem from="1598363927752" duration="58000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="476" y="56" key="#PHP" timestamp="1597782765895">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="476" y="56" key="#PHP/0.0.1536.824@0.0.1536.824" timestamp="1597782765895" />
+    <state x="477" y="12" width="633" height="801" key="find.popup" timestamp="1597952882185">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="12" width="633" height="801" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1597952882185" />
+    <state x="426" y="188" key="run.anything.popup" timestamp="1597782730415">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="426" y="188" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1597782730415" />
+  </component>
+</project>
